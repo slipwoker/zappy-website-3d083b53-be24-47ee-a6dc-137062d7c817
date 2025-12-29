@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://one-two-wood-3d083b53.zappy5.app/sitemap.xml

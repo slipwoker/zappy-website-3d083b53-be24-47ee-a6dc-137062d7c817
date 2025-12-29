@@ -1,0 +1,65 @@
+# One, two, Wood — Generative Engine Optimization Map
+
+> A אומנות ומלאכה business.
+
+---
+
+## Pages
+
+### בית
+https://one-two-wood-3d083b53.zappy5.app
+גלו סדנאות אומנות עץ ואפוקסי ייחודיות ומוצרי אומנות מעוצבים. הצטרפו לסדנאות DIY או הזמינו שולחנות אפוקסי מותאמים אישית.
+
+### מוצרים
+https://one-two-wood-3d083b53.zappy5.app/products
+מוצרי עץ ואפוקסי ישראל - שולחנות, קרשי הגשה, אומנות קיר ועוד. כל מוצר הוא שולחן אפוקסי ועץ בהזמנה אישית ייחודי ומעוצב בקפידה.
+
+### סדנאות
+https://one-two-wood-3d083b53.zappy5.app/workshops
+הצטרפו לסדנת אפוקסי לעשה זאת בעצמך ולמדו ליצור יצירות אומנות מעץ ואפוקסי. סדנאות מקצועיות למתחילים ומתקדמים.
+
+### אודות
+https://one-two-wood-3d083b53.zappy5.app/about
+הכירו את הסיפור מאחורי One, two, Wood - סטודיו לאומנות עץ ואפוקסי המציע מוצרים ייחודיים וסדנאות יצירתיות.
+
+### צור קשר
+https://one-two-wood-3d083b53.zappy5.app/contact
+צרו קשר עם One, two, Wood להזמנת מוצרי עץ ואפוקסי, הרשמה לסדנאות, או לכל שאלה. נשמח לשמוע מכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://one-two-wood-3d083b53.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://one-two-wood-3d083b53.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://one-two-wood-3d083b53.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About One, two, Wood
+One, two, Wood is a business in the אומנות ומלאכה industry.
+
+## Target Audience
+- אספני אומנות
+- מעצבי פנים
+- חובבי עשה זאת בעצמך
+- מחפשי מתנות ייחודיות
+- משפצים ביתיים
+
+## Industry
+אומנות ומלאכה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://one-two-wood-3d083b53.zappy5.app/sitemap.xml
+- **Robots.txt**: https://one-two-wood-3d083b53.zappy5.app/robots.txt
